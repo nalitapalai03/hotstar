@@ -1,0 +1,25 @@
+{
+  "short_name": "Hotstar",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "Disney.ico",
+      "sizes": "",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "ddd.png",
+      "type": "image/png",
+      "sizes": "698x698"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
