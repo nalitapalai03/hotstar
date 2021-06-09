@@ -1,0 +1,36 @@
+
+.App{
+  background-color: #0C111B;
+  height: 100vh;
+}
+
+.con{
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+  height: 20vh;
+}
+Nav{
+  color:whitesmoke;
+ 
+  background-color: #121926;
+  border: #121926;
+}
+.nav {
+  color: white;
+ 
+  
+}
+.head2{
+  color: whitesmoke;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.mp{
+  color:whitesmoke;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+}
+media{
+  width: 100vw;
+}
