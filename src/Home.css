@@ -1,0 +1,9 @@
+@media (max-width:768px){
+    span{
+        display: none;
+    }
+}
+span{
+    color: whitesmoke;
+    margin-top: 2rem;
+}
